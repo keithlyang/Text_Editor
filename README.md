@@ -12,6 +12,8 @@ https://blooming-retreat-77014.herokuapp.com/
 
 https://user-images.githubusercontent.com/95650841/157084657-e67d7f84-aee5-416f-91aa-b759da2bec7b.png
 
+https://github.com/keithlyang/Text_Editor/blob/main/pic/HW19-Text%20Editor.JPG
+
 ## Description
 
 This full-stack application allows the user to create notes or code snippets with or without an internet connection so that they can reliably retrieve them for later use.
